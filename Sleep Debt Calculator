@@ -42,3 +42,6 @@ var calculateSleepDebt = () => {
   }
 };
 calculateSleepDebt();
+
+
+//You can change this to add user input into the code!
